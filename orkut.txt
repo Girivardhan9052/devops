@@ -1,5 +1,4 @@
 Hello
 This is first outlook.
 updating for testing the commit.
-working on git fetch and
-testing git pull only.....
+testing  git fetch and git pull at a time.....
